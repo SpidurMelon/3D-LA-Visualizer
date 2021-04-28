@@ -1,0 +1,10 @@
+
+.idea/
+
+out/
+
+META-INF/
+
+build/
+
+.gradle/

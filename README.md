@@ -1,1 +1,1 @@
-3D LA Visualizer
+Linear Algebra
